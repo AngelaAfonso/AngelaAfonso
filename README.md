@@ -1,5 +1,18 @@
 ## Hi there 👋
+<h1 align="center">✨ Oi, eu sou a Angela! ✨</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/angela-afonso-5a8445321/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+🌸 **Sobre mim:**  
+- 🎮 Dev apaixonada por games e tecnologia  
+- 🚀 Criando projetos incríveis em Python, Javascript e muito mais...  
+- 🌍 Explorando novas linguagens e desafios  
+- 🎨 Criativa, adoro interfaces bonitas e UX bem feito  
 <!--
 **AngelaAfonso/AngelaAfonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
